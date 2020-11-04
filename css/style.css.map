@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/style.sass",
+        "../sass/templates/_example.sass"
+    ],
+    "names": [],
+    "file": "style.css"
+}
